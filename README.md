@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/yogya aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yogya aggarwal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogya aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogya aggarwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yogya-aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogya aggarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/being.bhavuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being.bhavuk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/beingbhavuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beingbhavuk" height="30" width="40" /></a>
 </p>
